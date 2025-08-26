@@ -1,0 +1,1 @@
+NAME, CITY, MODEL, PHONE, CONSENT = range(5)
